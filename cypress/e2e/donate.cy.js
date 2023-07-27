@@ -35,7 +35,7 @@ describe('Donate Form Tests', () => {
       cy.get(".Select-menu-outer").contains(user.fullEmployer).click()
   })
   })
- it.only('Full Form Submission', () => {
+ it('Full Form Submission', () => {
     cy.get("@user").then(user => {
       cy.get("#react-select-2--value").click().type(user.employer)
       cy.get(".Select-menu-outer").contains(user.fullEmployer).click()
