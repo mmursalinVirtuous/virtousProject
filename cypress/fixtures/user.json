@@ -1,0 +1,17 @@
+{
+  "address1": "7100 Test St",
+  "address2": "1202",
+  "cardCVV": "052",
+  "cardExp": "12/25",
+  "cardNum": "4003830171874018",
+  "city": "Denver",
+  "donationAmount": "500",
+  "email": "bigm3152@aol.com",
+  "employer": "chase",
+  "firstName": "Mohammad",
+  "fullEmployer": "JPMorgan Chase",
+  "lastName": "Mursalin",
+  "phone": "264-451-1540",
+  "postal": "80202",
+  "state": "Colorado"
+}
